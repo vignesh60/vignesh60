@@ -3,9 +3,14 @@
 I'm Vignesh, a passionate FullStack Developer from Krishnagiri. 
 
 ## 🔧 Technologies & Tools
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
+![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-0802A3?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
+![jQuery](https://img.shields.io/badge/jQuery-FF4B91?style=for-the-badge&logo=jquery)
+![React.js](https://img.shields.io/badge/React.js-D80032?style=for-the-badge&logo=react)
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-A2FF86?style=for-the-badge&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-00A9FF?style=for-the-badge&logo=java)
 ## 🌱 Currently Learning
 
 - [Your current learning goal 1]
