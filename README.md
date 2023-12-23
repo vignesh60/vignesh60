@@ -11,16 +11,16 @@ I'm Vignesh, a passionate FullStack Developer from Krishnagiri.
 ![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C++-A2FF86?style=for-the-badge&logo=cplusplus)
 ![Java](https://img.shields.io/badge/Java-00A9FF?style=for-the-badge&logo=java)
-## 🌱 Currently Learning
+<!-- ## 🌱 Currently Learning
 
 - [Your current learning goal 1]
 - [Your current learning goal 2]
+-->
 
 ## 📫 How to reach me
 
-- Email: [Your email]
-- LinkedIn: [Your LinkedIn]
-- Twitter: [Your Twitter]
+- Email: vigneshg.22cse@kongu.edu
+- LinkedIn: www.linkedin.com/in/vignesh-g-08166128b
 <!--
 ## 🚀 Projects
 
