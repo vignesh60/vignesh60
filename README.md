@@ -7,7 +7,7 @@ I'm Vignesh, a passionate FullStack Developer from Krishnagiri.
 ![CSS](https://img.shields.io/badge/CSS3-0802A3?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![jQuery](https://img.shields.io/badge/jQuery-FF4B91?style=for-the-badge&logo=jquery)
-![React.js](https://img.shields.io/badge/React.js-D80032?style=for-the-badge&logo=react)
+<!--![React.js](https://img.shields.io/badge/React.js-D80032?style=for-the-badge&logo=react)-->
 ![UI Design](https://img.shields.io/badge/UI%20Design-9cf?style=for-the-badge&logo=figma)
 ![UX Design](https://img.shields.io/badge/UX%20Design-blueviolet?style=for-the-badge&logo=sketch)
 ![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
