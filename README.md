@@ -21,7 +21,7 @@ I'm Vignesh, a passionate FullStack Developer from Krishnagiri.
 
 ## 📫 How to reach me
 
-- Email: vigneshg.22cse@kongu.edu
+- Email: gvignesh874@gmail.com
 - LinkedIn: www.linkedin.com/in/vignesh-g-08166128b
 <!--
 ## 🚀 Projects
