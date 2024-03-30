@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Vignesh, a passionate FullStack Developer from Krishnagiri. 
+I'm Vignesh, a passionate FullStack Developer from Krishnagiri.
 
 ## 🔧 Technologies & Tools
 ![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
