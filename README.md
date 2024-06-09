@@ -8,11 +8,17 @@ I'm Vignesh, a passionate FullStack Developer from Krishnagiri.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![jQuery](https://img.shields.io/badge/jQuery-FF4B91?style=for-the-badge&logo=jquery)
 ![React.js](https://img.shields.io/badge/React.js-black?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-F7DF1E?style=for-the-badge&logo=nodedotjs)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-orange?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-blueviole?style=for-the-badge&logo=mysql)
 ![UI Design](https://img.shields.io/badge/UI%20Design-9cf?style=for-the-badge&logo=figma)
 ![UX Design](https://img.shields.io/badge/UX%20Design-blueviolet?style=for-the-badge&logo=sketch)
 ![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C++-A2FF86?style=for-the-badge&logo=cplusplus)
 ![Java](https://img.shields.io/badge/Java-00A9FF?style=for-the-badge&logo=java)
+![Python](https://img.shields.io/badge/Python-0802A3?style=for-the-badge&logo=python)
+
 <!-- ## 🌱 Currently Learning
 
 - [Your current learning goal 1]
