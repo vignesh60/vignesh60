@@ -18,6 +18,10 @@ I'm Vignesh, a passionate FullStack Developer from Krishnagiri.
 ![C++](https://img.shields.io/badge/C++-A2FF86?style=for-the-badge&logo=cplusplus)
 ![Java](https://img.shields.io/badge/Java-00A9FF?style=for-the-badge&logo=java)
 ![Python](https://img.shields.io/badge/Python-0802A3?style=for-the-badge&logo=python)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white)
+
 
 <!-- ## 🌱 Currently Learning
 
