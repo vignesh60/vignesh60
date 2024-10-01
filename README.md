@@ -43,7 +43,7 @@ My Full Stack Projects are in Private.
 ## 📫 How to reach me
 
 - Email: gvignesh874@gmail.com
-- LinkedIn: www.linkedin.com/in/vignesh-g-08166128b
+- LinkedIn: www.linkedin.com/in/vignesh-govindasamy
 <!--
 ## 🚀 Projects
 
