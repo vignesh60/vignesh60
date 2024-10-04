@@ -44,13 +44,13 @@ I'm Vignesh, a passionate FullStack Developer from Krishnagiri.
       <img src="https://github.com/user-attachments/assets/b486df0a-d1e6-4795-8b16-25bd4630c969" alt="College Events Hub" width="100%" />
     </td>
     <td style="text-align: center;">
-      <p>LuxeStay</p>
+      <p>LuxeStay (Team Project)</p>
       <img src="https://github.com/user-attachments/assets/e0051bf0-cff8-44df-8e76-69c375d21201" alt="LuxeStay" width="100%">
     </td>
   </tr>
   <tr>
     <td style="text-align: center;">
-      <p>Healthequip Tracker</p>
+      <p>Healthequip Tracker (Team Project)</p>
       <img src="https://github.com/user-attachments/assets/c0d3d2c2-8b28-4f9b-b615-f48e06faf3ba" alt="Healthequip Tracker"width="100%" />
     </td>
     <td style="text-align: center;">
