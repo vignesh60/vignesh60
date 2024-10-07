@@ -86,6 +86,7 @@ I'm Vignesh, a passionate FullStack Developer from Krishnagiri.
 - [Your current learning goal 1]
 - [Your current learning goal 2]
 -->
+![Profile views](https://hits.sh/github.com/vignesh60/vignesh60.svg)
 
 ## 📫 How to reach me
 
