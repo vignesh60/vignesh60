@@ -91,8 +91,9 @@ I'm Vignesh, a passionate FullStack Developer from Krishnagiri.
 
 ## 📫 How to reach me
 
-- Email: gvignesh874@gmail.com
-- LinkedIn: www.linkedin.com/in/vignesh-govindasamy
+- ![Email Icon](https://img.icons8.com/ios-glyphs/20/000000/new-post.png) gvignesh874@gmail.com
+- <img src="https://www.svgrepo.com/show/157006/linkedin.svg" alt="linkedin" width="20"/> [LinkedIn](https://www.linkedin.com/in/vignesh-govindasamy)
+
 <!--
 ## 🚀 Projects
 
