@@ -1,6 +1,9 @@
+![Group 19(2)](https://github.com/user-attachments/assets/7d84ec5b-5289-4684-b568-740d1f1b0b6a)
+
 # Hi there! 👋
 
 I'm Vignesh, a passionate FullStack Developer from Krishnagiri.
+
 
 ## 🔧 Technologies & Tools
 ![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
