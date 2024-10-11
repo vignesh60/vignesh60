@@ -1,4 +1,5 @@
-![Group 19(2)](https://github.com/user-attachments/assets/7d84ec5b-5289-4684-b568-740d1f1b0b6a)
+![Frame 49(1)](https://github.com/user-attachments/assets/8c073adb-dc50-4fdb-a59d-11eb8369509e)
+
 
 # Hi there! 👋
 
