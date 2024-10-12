@@ -3,7 +3,7 @@
 
 # Hi there! 👋
 
-I'm Vignesh, a passionate FullStack Developer from Krishnagiri.
+I'm Vignesh, a passionate FullStack Developer from Tamil Nadu.
 
 
 ## 🔧 Technologies & Tools
