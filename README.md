@@ -1,6 +1,7 @@
 ![Frame 49(1)](https://github.com/user-attachments/assets/8c073adb-dc50-4fdb-a59d-11eb8369509e)
 
 
+
 # Hi there! 👋
 
 I'm Vignesh, a passionate FullStack Developer from Tamil Nadu.
@@ -88,6 +89,8 @@ I'm Vignesh, a passionate FullStack Developer from Tamil Nadu.
 - [Your current learning goal 2]
 -->
 
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vignesh60&&include_all_commits=true&count_private=true&theme=default&locale=en&date_access_token=YOUR_TOKEN)
 
 ##
 ![Profile views](https://hits.sh/github.com/vignesh60/vignesh60.svg?label=Profile+views)
