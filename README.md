@@ -90,8 +90,6 @@ I'm Vignesh, a passionate FullStack Developer from Tamil Nadu.
 -->
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vignesh60&&include_all_commits=true&count_private=true&theme=default&locale=en&date_access_token=YOUR_TOKEN)
-
 ##
 ![Profile views](https://hits.sh/github.com/vignesh60/vignesh60.svg?label=Profile+views)
 
