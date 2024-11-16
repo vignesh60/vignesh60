@@ -89,8 +89,8 @@ I'm Vignesh, a passionate FullStack Developer from Tamil Nadu.
 - [Your current learning goal 2]
 -->
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vignesh60&access_token=YOUR_TOKEN)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vignesh60)
 
 ##
 ![Profile views](https://hits.sh/github.com/vignesh60/vignesh60.svg?label=Profile+views)
