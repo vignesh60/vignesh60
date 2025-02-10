@@ -34,6 +34,10 @@ I'm Vignesh, a passionate FullStack Developer from Tamil Nadu.
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-blueviolet?style=for-the-badge&logo=react&logoColor=white)
+![React+Vite](https://img.shields.io/badge/React+Vite-blue?style=for-the-badge&logo=react&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk-3A5AFC?style=for-the-badge&logo=clerk&logoColor=white)
 
 
 ## The following projects are my full-stack projects. I will soon make these repositories public, and you can use them for your study purposes.
