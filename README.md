@@ -29,8 +29,6 @@ I'm Vignesh, a passionate FullStack Developer from Tamil Nadu.
 ![Python](https://img.shields.io/badge/Python-0802A3?style=for-the-badge&logo=python)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-FF4B91?style=for-the-badge&logo=figma&logoColor=white)
@@ -47,6 +45,20 @@ I'm Vignesh, a passionate FullStack Developer from Tamil Nadu.
 ## The following projects are my full-stack projects. I will soon make these repositories public, and you can use them for your study purposes.
 
 <table>
+  <tr>
+    <td style="text-align: center;">
+      <p>Devvora</p>
+      <img src="https://github.com/user-attachments/assets/527874f3-1946-4eab-aaa4-e9bee0873f66" alt="Devvora" width="100%" />
+    </td>
+    <td style="text-align: center;">
+      <p>Trendovix</p>
+      <img src="https://github.com/user-attachments/assets/882ffaa0-f043-41de-9f64-a84eab7bac32" alt="Trendovix" width="100%" />
+    </td>
+    <td style="text-align: center;">
+      <p>Face Liveness Detection</p>
+      <img src="https://github.com/user-attachments/assets/986f8f70-44b1-4ebf-a3c0-339eaeb0ce3d" alt="Face Liveness Detection" width="100%">
+    </td>
+  </tr>
   <tr>
     <td style="text-align: center;">
       <p>Next Level Book Store</p>
