@@ -8,7 +8,7 @@ I'm Vignesh, a passionate FullStack Developer from Tamil Nadu.
 
 ### Portfolio : https://vignesh-govindasamy.netlify.app
 
-### Devvora : https://www.devvora.com
+### Devvora : https://www.devvora.vercel.app
 
 
 ## 🔧 Technologies & Tools
